@@ -3,6 +3,7 @@ body{
     text-align: center;
     font-family: 'Merriweather', serif;
     color: #40514E;
+    background-color: #2BC4AD;
 
 }
 h1{
@@ -30,7 +31,7 @@ hr{
     margin: 100px auto 100px auto;
 }
 .top-container{
-    background-color: #d2fdf5;
+   
     max-width: 100%;
     min-height: 535px;
     position: relative;
