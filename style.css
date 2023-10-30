@@ -26,19 +26,17 @@ h3{
 hr{
     border: dotted #eaf6f6 6px;
     border-bottom: none;
-    width: 4%;
+    max-width: 4%;
     margin: 100px auto 100px auto;
 }
 .top-container{
     background-color: #d2fdf5;
     width: auto;
-    height: 535px;
+    min-height: 535px;
     position: relative;
     padding-top: 100px;
     padding-bottom: 180px;
 }
-.middle-container{
-    
     
 }
 .bottom-container{
@@ -58,7 +56,7 @@ hr{
     margin-bottom: 100px;
  }
  .skill-row {
-    width: 50%;
+    max-width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
  
@@ -66,12 +64,12 @@ hr{
     margin-left: 0;
  }
  .programming{
-    width: 25%;
+    max-width: 25%;
     float: left;
     margin-right: 30px;
  }
  .muscle{
-    width: 25%;
+    max-width: 25%;
     float: right;
     margin-left: 30px;
    
@@ -86,14 +84,14 @@ hr{
     color: rgb(77, 66, 66);
 }
 .intro{
-    width: 30%;
+    max-width: 30%;
     margin: auto;
 }
 .gymm{
     margin-top: 10px;
 }
 .contact-message{
-    width: 40%;
+    max-width: 40%;
     margin: 40px auto 60px;
 }
 .btn {
