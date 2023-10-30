@@ -31,7 +31,7 @@ hr{
 }
 .top-container{
     background-color: #d2fdf5;
-    width: auto;
+    max-width: 100%;
     min-height: 535px;
     position: relative;
     padding-top: 100px;
