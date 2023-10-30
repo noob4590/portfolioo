@@ -3,7 +3,7 @@ body{
     text-align: center;
     font-family: 'Merriweather', serif;
     color: #40514E;
-     background-color: #e8bd3a
+    
 ;
 
 }
@@ -31,7 +31,14 @@ hr{
     max-width: 4%;
     margin: 100px auto 100px auto;
 }
-
+.top-container{
+    background-color: #d2fdf5;
+    width: auto;
+    height: 535px;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 180px;
+}
     
 }
 .bottom-container{
